@@ -1,4 +1,6 @@
 GoogleNews-vectors-negative300.bin.gz
+*.bin.gz
+*.pth
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -181,3 +183,6 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+12. Embedding/GoogleNews-vectors-negative300.bin.gzr5ms5cgp.part
+13. RNN CNN Text Classification/ratings_test.txt
+12. Embedding/GoogleNews-vectors-negative300.bin.gzr5ms5cgp.part
